@@ -1,0 +1,11 @@
+/*universal selector start*/
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+/*universal selector end*/
